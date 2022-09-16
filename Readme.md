@@ -20,7 +20,7 @@
 <br/>
 
 
-### 🛠 &nbsp;`Tech Stack`
+
 
 ### 🛠 &nbsp;`Tech Stack`
 
@@ -31,7 +31,7 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
-  ![C++](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=C++)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C++)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
