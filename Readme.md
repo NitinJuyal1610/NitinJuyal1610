@@ -19,7 +19,7 @@
   </a>
 </p>
 
-<a href="https://www.linkedin.com/in/nitin-juyal-905736209/" target="blank"> <img src="https://skillicons.dev/icons?i=twitter" /></a>
+<a href="https://www.linkedin.com/in/nitin-juyal-905736209/" target="blank"> <img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://www.leetcode.com/nitin1610" target="blank"><img src="https://skillicons.dev/icons?i=leetcode" /></a>
 </p>
 <br/>
@@ -29,7 +29,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,bootstrap,c,cpp,css,git,github,go,html,ipfs,js,nextjs,postman,py,react,solidity,tailwind,ts&perline=8" />
+    <img src="https://skillicons.dev/icons?i=docker,bootstrap,c,cpp,css,git,github,go,html,ipfs,js,nextjs,postman,py,react,solidity,tailwind,vscode,ts&perline=8" />
   </a>
 </p>
 
