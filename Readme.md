@@ -23,6 +23,9 @@
 <br/>
 
 
+<p align="center">
+<img src="https://leetcode-stats-six.vercel.app/?username=Nitin1610&theme=dark"/>
+ </p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
