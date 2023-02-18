@@ -29,7 +29,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,bootstrap,c,cpp,css,git,github,go,html,ipfs,js,nextjs,postman,py,react,solidity,tailwind,vscode,ts&perline=8" />
+    <img src="https://skillicons.dev/icons?i=docker,bootstrap,c,cpp,css,git,github,go,html,ipfs,js,nextjs,postman,py,react,solidity,tailwind,vscode,ts&perline=7" />
   </a>
 </p>
 
