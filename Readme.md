@@ -20,8 +20,7 @@
 </p>
 
 <a href="https://www.linkedin.com/in/nitin-juyal-905736209/" target="blank"> <img src="https://skillicons.dev/icons?i=twitter" /></a>
-<a href="https://codeforces.com/profile/nitin_juyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nitin_juyal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nitin1610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nitin1610" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/nitin1610" target="blank"><img src="https://skillicons.dev/icons?i=leetcode" /></a>
 </p>
 <br/>
 
