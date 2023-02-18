@@ -13,7 +13,7 @@
 <h3 align="center">Connect with me:</h3>
 <br/>
 <p align="center">
- [![My Skills](https://skillicons.dev/icons?i=twitter,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <a href="https://www.linkedin.com/in/nitin-juyal-905736209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nitin-juyal-905736209/" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/nitin_juyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nitin_juyal" height="30" width="40" /></a>
