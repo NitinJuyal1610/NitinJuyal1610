@@ -16,9 +16,6 @@
   <a align="center" href="https://www.linkedin.com/in/nitin-juyal-905736209/" target="blank"> 
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a align="center" href="https://www.leetcode.com/nitin1610" target="blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" />
-  </a>
 </p>
 <br/>
 
