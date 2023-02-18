@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nitin Juyal</h1>
 <h3 align="center">Loves Building in Web3</h3>
-
+![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nitinjuyal1610&label=Profile%20views&color=0e75b6&style=flat" alt="nitinjuyal1610" /> </p>
 
 
