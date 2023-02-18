@@ -6,7 +6,6 @@
 
 <p align="center">
   I am a <b>Web3</b> Developer
-  ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
   <br/>
   📫 How to reach me <b>nitinjuyal1610@gmail.com</b>
 </p>
@@ -15,9 +14,8 @@
 <br/>
 <p align="center">
 
-
-<a href="https://www.linkedin.com/in/nitin-juyal-905736209/" target="blank"> <img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://www.leetcode.com/nitin1610" target="blank"><img src="https://skillicons.dev/icons?i=leetcode" /></a>
+<a align="center" href="https://www.linkedin.com/in/nitin-juyal-905736209/" target="blank"> <img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a align="center" href="https://www.leetcode.com/nitin1610" target="blank"><img src="https://skillicons.dev/icons?i=leetcode" /></a>
 </p>
 <br/>
 
