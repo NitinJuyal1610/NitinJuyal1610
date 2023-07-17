@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitin Juyal</h1>
-<h3 align="center">Loves Building in Web3</h3>
+<h3 align="center">Backend Developer with a Passion for Web3 Development</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nitinjuyal1610&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="nitinjuyal1610" /> </p>
 
