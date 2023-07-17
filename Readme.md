@@ -4,10 +4,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nitinjuyal1610&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="nitinjuyal1610" /> </p>
 
 
-<p align="center">
-  I am a <b>Web3</b> Developer
-  <br/>
-  📫 How to reach me <b>nitinjuyal1610@gmail.com</b>
+<p align="center" style="font-size: 14px">
+  Hi there! 👋 I'm Nitin, a backend developer and Web3 enthusiast.<br/>
+  ⚙️ Specializing in building robust backend systems for innovative web applications.<br/>
+  🧑‍💻 Exploring Web3 development, blockchain, and decentralized applications (dApps).<br/>
+  📫 Reach me at nitinjuyal1610@gmail.com for inquiries or collaborations.
 </p>
 
 <h3 align="center">Connect with me:</h3>
