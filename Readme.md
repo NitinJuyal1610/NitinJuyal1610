@@ -24,10 +24,6 @@
 <br/>
 
 
-<p align="center">
-<img src="https://leetcode-stats-six.vercel.app/?username=Nitin1610&theme=dark"/>
- </p>
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
  <a href="https://skillicons.dev">
@@ -38,6 +34,15 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nitinjuyal1610&show_icons=true&theme=radical"/>
 </p>
+
+<p align="center">
+Leetcode
+ </p>
+
+<p align="center">
+<img src="https://leetcode-stats-six.vercel.app/?username=Nitin1610&theme=dark"/>
+ </p>
+
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinjuyal1610&hide_progress=true&theme=radical" alt="nitinjuyal1610" /></p>
 <p align="center"><img align="center" src="https://streak-stats.demolab.com/?user=nitinjuyal1610&theme=dark" alt="nitinjuyal1610" /></p>
