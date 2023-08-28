@@ -7,7 +7,7 @@
 <p align="center" style="font-size: 14px">
   Hi there! 👋 I'm Nitin, a backend developer and Web3 enthusiast.<br/>
   ⚙️ Specializing in building robust backend systems for innovative web applications.<br/>
-  🧑‍💻 Exploring Web3 development, blockchain, and decentralized applications (dApps).<br/>
+  🧑‍💻 Exploring DevOps, Cloud, Web3 development, blockchain, and decentralized applications (dApps).<br/>
   📫 Reach me at nitinjuyal1610@gmail.com for inquiries or collaborations.
 </p>
 
