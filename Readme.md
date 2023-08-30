@@ -4,12 +4,14 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nitinjuyal1610&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="nitinjuyal1610" /> </p>
 
 
-<p align="center" style="font-size: 14px">
-  Hi there! 👋 I'm Nitin, a backend developer and Web3 enthusiast.<br/>
-  ⚙️ Specializing in building robust backend systems for innovative web applications.<br/>
-  🧑‍💻 Exploring DevOps, Cloud, Web3 development, blockchain, and decentralized applications (dApps).<br/>
-  📫 Reach me at nitinjuyal1610@gmail.com for inquiries or collaborations.
+<p align="center" style="font-size: 16px">
+  Hi there! 👋 I'm Nitin, a backend developer and Web3 enthusiast.<br>
+  ⚙️ I specialize in building <strong>robust backend systems</strong> for innovative web applications.<br>
+  🧑‍💻 I'm also experimenting with DevOps, Cloud, and Web3.<br>
+  📫 Feel free to reach out to me at nitinjuyal1610@gmail.com for inquiries or collaborations.
 </p>
+
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=NitinJuyal1610&theme=discord&column=3&row=2" alt="bhi" /> </p>
 
 <h3 align="center">Connect with me:</h3>
 <br/>
@@ -23,6 +25,10 @@
 </p>
 <br/>
 
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NitinJuyal1610&theme=material_palenight" alt="A beautiful sunset">
+</p>
+
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
@@ -32,17 +38,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitinjuyal1610&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NitinJuyal1610&rank_icon=github"/>
 </p>
-
-<p align="center">
-Leetcode
- </p>
-
-<p align="center">
-<img src="https://leetcode-stats-six.vercel.app/?username=Nitin1610&theme=dark"/>
- </p>
-
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinjuyal1610&hide_progress=true&theme=radical" alt="nitinjuyal1610" /></p>
 <p align="center"><img align="center" src="https://streak-stats.demolab.com/?user=nitinjuyal1610&theme=dark" alt="nitinjuyal1610" /></p>
