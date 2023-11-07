@@ -20,7 +20,7 @@
     	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <br/>
-  <img src="https://dcbadge.vercel.app/api/shield/760365797972770846" />
+  
 
 </p>
 <br/>
