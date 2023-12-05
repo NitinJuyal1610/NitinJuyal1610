@@ -5,10 +5,10 @@
 
 
 <p align="center" style="font-size: 16px">
-  Hi there! 👋 I'm Nitin, a backend developer and Web3 enthusiast.<br>
-  ⚙️ I specialize in building <strong>robust backend systems</strong> for innovative web applications.<br>
-  🧑‍💻 I'm also experimenting with DevOps, Cloud, and Web3.<br>
-  📫 Feel free to reach out to me at nitinjuyal1610@gmail.com for inquiries or collaborations.
+  Hello there! 👋 I'm Nitin, a skilled backend developer specializing in building robust web applications.<br>
+  ⚙️ With a strong focus on reliability, I create backend systems that power innovative and seamless user experiences.<br>
+  🧑‍💻 I am also working on DevOps practices, Cloud technologies, and staying up-to-date with the latest trends in the industry.<br>
+  📫 Feel free to reach out to me at nitinjuyal1610@gmail.com for any inquiries or collaboration opportunities. I would be happy to connect with you!
 </p>
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=NitinJuyal1610&theme=discord&column=3&row=2" alt="bhi" /> </p>
