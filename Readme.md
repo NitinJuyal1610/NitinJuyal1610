@@ -1,28 +1,14 @@
-<h1 align="center">Hi 👋, I'm Nitin Juyal</h1>
-<h3 align="center">Software Engineer | Backend Developer</h3>
+<h1 align="center">Hi, I'm Nitin </h1>
+<h3 align="center">Backend Developer | Building reliable web experiences</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nitinjuyal1610&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="nitinjuyal1610" /> </p>
+<h3 align="center">Building delightful experiences with code. ✨</h3>
 
-
-<p align="center" style="font-size: 16px">
-  Hello there! 👋 I'm Nitin, a skilled backend developer specializing in building robust web applications.<br>
-  ⚙️ With a strong focus on reliability, I create backend systems that power innovative and seamless user experiences.<br>
-  🧑‍💻 I am also working on DevOps practices, Cloud technologies, and staying up-to-date with the latest trends in the industry.<br>
-  📫 Feel free to reach out to me at nitinjuyal1610@gmail.com for any inquiries or collaboration opportunities. I would be happy to connect with you!
-</p>
-
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=NitinJuyal1610&theme=discord&column=3&row=2" alt="bhi" /> </p>
-
-<h3 align="center">Connect with me:</h3>
-<br/>
-<p align="center">
-  <a align="center" href="https://www.linkedin.com/in/nitin-juyal-905736209/" target="blank"> 
-    	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<p align="center">Connect with me:
+  <a href="https://www.linkedin.com/in/nitin-juyal-905736209/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <br/>
-  
-
 </p>
+
 <br/>
 
 <p align="center">
