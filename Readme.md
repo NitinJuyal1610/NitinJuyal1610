@@ -19,7 +19,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,bootstrap,vite,redis,c,cpp,css,linux,git,github,html,mongodb,ipfs,js,postman,py,react,nodejs,express,mysql,solidity,tailwind,vscode,graphql,sequelize,ts,nest,postgresql,aws,jest,&perline=8" />
+    <img src="https://skillicons.dev/icons?i=docker,redis,c,cpp,css,linux,git,github,html,mongodb,ipfs,js,postman,py,react,nodejs,express,mysql,solidity,tailwind,vscode,graphql,sequelize,ts,nest,postgresql,dynamodb	,aws,jest,&perline=8" />
   </a>
 </p>
 
