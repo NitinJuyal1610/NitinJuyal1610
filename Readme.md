@@ -23,9 +23,5 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NitinJuyal1610&rank_icon=github"/>
-</p>
-
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinjuyal1610&hide_progress=true&theme=radical" alt="nitinjuyal1610" /></p>
 <p align="center"><img align="center" src="https://streak-stats.demolab.com/?user=nitinjuyal1610&theme=dark" alt="nitinjuyal1610" /></p>
